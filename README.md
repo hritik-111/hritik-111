@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hritik Pal
 - 👀 I’m interested in cyber security(as of now, interest changes time to time)
 - 🌱 I’m currently learning c++ and data structure (btech 2nd year)
-- 💞️ I’m looking to collaborate on ...
+- currently (3-sem, 2021), mini-project- cryptography ! 
 - 📫 How to reach me __ You can text me on instagram--- @_hritik_111 ,  is my username.
 
 <!---
